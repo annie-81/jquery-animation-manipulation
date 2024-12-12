@@ -1,4 +1,4 @@
-##Description
+## Description
 
 This project demonstrates basic jQuery animation and content manipulation techniques. The functionality includes:
 
@@ -6,7 +6,7 @@ Appending content dynamically to a paragraph and list.
 Animating a div's state using the animate() method.  
 Changing the color of an animated div dynamically during the animation sequence.  
 
-##Features
+## Features
 
 Dynamic Content Addition:
 Append text content to an example paragraph.  
@@ -16,7 +16,7 @@ Resizing and moving a box with smooth animation.
 Dynamic Color Changes:
 Animated color transitions applied during clicks.  
 
-##Setup Instructions
+## Setup Instructions
 
 1. Clone the Repository
 *git clone https://github.com/annie-81/jquery-animation-manipulation.git* .  
